@@ -1,0 +1,67 @@
+{
+  "result": [
+    {
+      "scriptId": "1071",
+      "url": "file:///C:/work/react-demo/react-dev-demo/vitest-setup.ts",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [{ "startOffset": 0, "endOffset": 751, "count": 1 }],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [{ "startOffset": 13, "endOffset": 751, "count": 1 }],
+          "isBlockCoverage": true
+        }
+      ]
+    },
+    {
+      "scriptId": "1344",
+      "url": "file:///C:/work/react-demo/react-dev-demo/src/components/TextInput.test.tsx",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [{ "startOffset": 0, "endOffset": 2701, "count": 1 }],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [{ "startOffset": 13, "endOffset": 2701, "count": 1 }],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [{ "startOffset": 996, "endOffset": 1471, "count": 1 }],
+          "isBlockCoverage": true
+        }
+      ]
+    },
+    {
+      "scriptId": "1759",
+      "url": "file:///C:/work/react-demo/react-dev-demo/src/components/TextInput.tsx",
+      "functions": [
+        {
+          "functionName": "",
+          "ranges": [{ "startOffset": 0, "endOffset": 3228, "count": 1 }],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "",
+          "ranges": [{ "startOffset": 13, "endOffset": 3228, "count": 1 }],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "TextInput",
+          "ranges": [{ "startOffset": 557, "endOffset": 1749, "count": 1 }],
+          "isBlockCoverage": true
+        },
+        {
+          "functionName": "onChange",
+          "ranges": [{ "startOffset": 861, "endOffset": 889, "count": 0 }],
+          "isBlockCoverage": false
+        }
+      ]
+    }
+  ]
+}
